@@ -6,7 +6,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 
-print(greet("MohannadNassralla"))
+print(greet("World"))
 
 # Add your drill completion note below this line:
 # I complet train
